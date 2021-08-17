@@ -1,2 +1,4 @@
 .idea
 Tompilery.iml
+target
+Cargo.lock
